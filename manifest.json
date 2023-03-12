@@ -15,6 +15,13 @@
       "description": "Lock your screen"
     },
     {
+      "id": "logout",
+      "type": "keyword",
+      "name": "Logout",
+      "default_value": "Logout",
+      "description": "Logout user"
+    },
+    {
       "id": "restart",
       "type": "keyword",
       "name": "Reboot / Restart",
